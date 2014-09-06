@@ -36,3 +36,6 @@ console.log("It's " + sunnyDay + " that it was a sunny day during the bike ride.
 totalMilesOfRide = totalMilesOfRide + 10;
 console.log(totalMilesOfRide);
 // End of code
+
+
+//mm
