@@ -38,4 +38,3 @@ console.log(totalMilesOfRide);
 // End of code
 
 
-//mm
